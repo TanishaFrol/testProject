@@ -8,7 +8,8 @@ public class Test {
             Cats cat1 = new Cats("Mussi", 5);
             cat1.seeCat();
 
-
+            Dog dog1 = new Dog("Lussy", 3);
+            dog1.seeDog();
         }
 
     }
